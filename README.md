@@ -1,2 +1,2 @@
-## CalHacks React Workshop Final Code
-This repo contains the final code for the React workshop taught at CalHacks 2018. The repo with starter code and more resources can be found [here](https://github.com/trev4ev/calhacks-workshop-starter-code).
+## Mentored Project Callback Functions Lesson
+The master branch of this repo contains the starter code for the Callback Functions lesson demo. Check out the final-code branch for the solutions.
